@@ -1,0 +1,14 @@
+c:\Users\rafac\dev\testes\Target 2\InverterString\bin\Debug\net8.0\InverterString.exe
+c:\Users\rafac\dev\testes\Target 2\InverterString\bin\Debug\net8.0\InverterString.deps.json
+c:\Users\rafac\dev\testes\Target 2\InverterString\bin\Debug\net8.0\InverterString.runtimeconfig.json
+c:\Users\rafac\dev\testes\Target 2\InverterString\bin\Debug\net8.0\InverterString.dll
+c:\Users\rafac\dev\testes\Target 2\InverterString\bin\Debug\net8.0\InverterString.pdb
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\InverterString.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\InverterString.AssemblyInfoInputs.cache
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\InverterString.AssemblyInfo.cs
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\InverterString.csproj.CoreCompileInputs.cache
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\InverterString.dll
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\refint\InverterString.dll
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\InverterString.pdb
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\InverterString.genruntimeconfig.cache
+c:\Users\rafac\dev\testes\Target 2\InverterString\obj\Debug\net8.0\ref\InverterString.dll
